@@ -1,2 +1,3 @@
 # remote-sample
-For training
+
+リモートリポジトリ連携の学習用プロジェクトです。
